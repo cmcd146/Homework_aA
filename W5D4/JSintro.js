@@ -41,6 +41,8 @@ function mysteryScoping4() {
   console.log(x);
 }
 
+
+
 // mysteryScoping4();
 
 function mysteryScoping5() {
@@ -57,6 +59,10 @@ function mysteryScoping5() {
 
 function madLib(verb, adj, noun){
   console.log(`We shall ${verb.toUpperCase()} the ${adj.toUpperCase()} ${noun.toUpperCase()}`)
+}
+
+const favor = function () {
+  
 }
 
 madLib('make', 'best', 'guac');
