@@ -1,0 +1,36 @@
+/* .title {
+  position: absolute;
+} */
+
+.session {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 1500px;
+  padding: 30px;
+}
+
+.session a {
+  background-color: #ffff;
+  padding: 7px;
+  border-radius: 5%;
+  border: 1px solid black;
+}
+
+.session p {
+  background-color: #ffff;
+  padding: 7px;
+  border-radius: 5%;
+}
+
+.logo img {
+  width: 70px;
+  height: 70px;
+}
+
+form{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
